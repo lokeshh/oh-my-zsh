@@ -32,3 +32,4 @@ plugins=(... mvn)
 | `mvns`               | `mvn site`                                      |
 | `mvnsrc`             | `mvn dependency:sources`                        |
 | `mvndocs`            | `mvn dependency:resolve -Dclassifier=javadoc`   |
+| `mvnboot`            | `mvn spring-boot:run`                           |
